@@ -88,7 +88,7 @@ Make sure PostgreSQL is installed and running on your system.
 Create a .env file and add your database connection string:
 bash
 Copy code
-DATABASE_URL="postgresql://user:password@localhost:5432/mydb"
+DATABASE_URL="postgres://postgres:D@rkdevil7739@localhost:5432/postgres"
 Run Prisma migrations:
 
 bash
